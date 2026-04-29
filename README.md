@@ -32,7 +32,7 @@ My curated list of audio DSP (digital signal processing) and plugin development 
     - These textbooks are a common recommendation for beginners.
     - The synthesizer one is better than the effect one imo, so go for that if you plan on only buying one.
     - ISBN-10: 0367510480 and 1138591939, ISBN-13: 978-0367510480 and 978-1138591936
-- [projet μ](https://mu.krj.st/) by Yü Fang
+- [projet Î¼](https://mu.krj.st/) by YÃ¼ Fang
   - A great free online course that teaches the basics of DSP from scratch using the C programming language. It's my personal go-to recommendation to beginners.
   - Does a great job of explaining concepts in code, along with helpful graphics.
   - Requires some knowledge of complex numbers and basic integral calculus. (There's really no way around this if you're learning DSP). It is also very Linux-focused, but the course can still be done using Windows or MacOS.
@@ -53,3 +53,6 @@ Feel free to open a PR if you wish! But please follow the rules:
 * The linked resources must be genuinely useful to learn from. (Toy/hobby projects are allowed in `Open Source Plugins & Software` as long as the software is functional.)
 * Lists must be sorted in alphabetical order.
 
+
+
+* [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly and FFmpeg.wasm. No uploads, no sign-up, no watermarks. Batch up to 20 clips.
